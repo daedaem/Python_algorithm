@@ -11,7 +11,7 @@ rights = 0
 result = []
 stack = []
 
-def tree(cnt, x,y):
+def tree(cnt, x, y):
     if x > A and y > B:
         return
     else:
