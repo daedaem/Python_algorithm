@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="eecc2933-e5f0-4826-92ce-39282c6530c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/AlgoStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgoStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/14244/14244.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/14244/14244.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/14244/14244.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/14244/14244.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,57 +14,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2128376805">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="ipynb" value="1" />
-          <entry key="py" value="21" />
-          <entry key="txt" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IPNB" value="1" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="21" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="9725" />
-          <entry key="txt" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="9725" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="AlgoStudy" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backjoon/1697/1697.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="190">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="32" lean-forward="true" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -97,11 +77,13 @@
         <option value="$PROJECT_DIR$/backjoon/12851/12851.txt" />
         <option value="$PROJECT_DIR$/backjoon/12851/12851.py" />
         <option value="$PROJECT_DIR$/backjoon/1697/1697.py" />
+        <option value="$PROJECT_DIR$/backjoon/14244/14244.txt" />
+        <option value="$PROJECT_DIR$/backjoon/14244/14244.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-260" />
+    <option name="x" value="1917" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
@@ -130,7 +112,7 @@
               <item name="AlgoStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
               <item name="backjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="1697" type="462c0819:PsiDirectoryNode" />
+              <item name="14244" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,6 +122,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -159,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1697">
+  <component name="RunManager" selected="Python.14244">
     <configuration name="12851" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,6 +164,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="14244" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgoStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/14244" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/14244/14244.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1697" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,27 +198,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/1697/1697.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2178" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgoStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/2178" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/2178/2178.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,19 +249,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2178" />
       <item itemvalue="Python.2667" />
       <item itemvalue="Python.2468" />
       <item itemvalue="Python.1697" />
       <item itemvalue="Python.12851" />
+      <item itemvalue="Python.14244" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14244" />
         <item itemvalue="Python.1697" />
         <item itemvalue="Python.12851" />
         <item itemvalue="Python.2468" />
         <item itemvalue="Python.2667" />
-        <item itemvalue="Python.2178" />
       </list>
     </recent_temporary>
   </component>
@@ -296,21 +279,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4971537" visible="true" weight="0.1097158" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4971537" visible="true" weight="0.20092532" />
       <window_info id="Favorites" order="1" sideWeight="0.5028463" side_tool="true" weight="0.1665565" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" weight="0.265625" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.06392045" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49834764" visible="true" weight="0.265625" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29545453" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50033045" side_tool="true" weight="0.265625" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50165236" side_tool="true" weight="0.265625" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -371,6 +355,16 @@
           <url>file://$PROJECT_DIR$/backjoon/12851/12851.py</url>
           <line>5</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/1697/1697.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/1697/1697.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -437,13 +431,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Python/Python39/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="267" selection-start-line="267" selection-end-line="267" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Program Files/Python/Python39/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/1260/1260.txt" />
     <entry file="file://$PROJECT_DIR$/backjoon/1260/1260.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/2178/2178.txt" />
@@ -458,8 +446,22 @@
     <entry file="file://$PROJECT_DIR$/backjoon/12851/12851.txt" />
     <entry file="file://$PROJECT_DIR$/backjoon/1697/1697.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="190">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="32" lean-forward="true" selection-end-line="21" />
         </state>
       </provider>
     </entry>
