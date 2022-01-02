@@ -56,9 +56,6 @@ def bfs(y, x):
                 else:
                     pass
 
-
-
-
 N, M = map(int, input().split())
 maze = [list(map(int, input())) for _ in range(N)]
 # arr = [[0] * (M+1) for _ in range(N+1)]

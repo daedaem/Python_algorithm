@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eecc2933-e5f0-4826-92ce-39282c6530c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AlgoStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgoStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/14244/14244.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/14244/14244.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/14244/14244.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/14244/14244.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/2178/2178.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/2178/2178.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/9372/9372.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/9372/9372.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/9372/9372.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/9372/9372.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="32" lean-forward="true" selection-end-line="21" />
+            <state relative-caret-position="209">
+              <caret line="11" column="24" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -41,7 +40,72 @@
         <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backjoon/2178/2178.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backjoon/2178/2178.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backjoon/9372/9372.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backjoon/11725/11725.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backjoon/11725/11725_new.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backjoon/11725/11725.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backjoon/9372/9372.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -68,7 +132,6 @@
         <option value="$PROJECT_DIR$/backjoon/1260/1260.py" />
         <option value="$PROJECT_DIR$/backjoon/1260/1260.txt" />
         <option value="$PROJECT_DIR$/backjoon/2178/2178.txt" />
-        <option value="$PROJECT_DIR$/backjoon/2178/2178.py" />
         <option value="$PROJECT_DIR$/backjoon/2667/2667.txt" />
         <option value="$PROJECT_DIR$/backjoon/2667/2667.py" />
         <option value="$PROJECT_DIR$/backjoon/2468/2468.txt" />
@@ -79,14 +142,19 @@
         <option value="$PROJECT_DIR$/backjoon/1697/1697.py" />
         <option value="$PROJECT_DIR$/backjoon/14244/14244.txt" />
         <option value="$PROJECT_DIR$/backjoon/14244/14244.py" />
+        <option value="$PROJECT_DIR$/backjoon/2178/2178.py" />
+        <option value="$PROJECT_DIR$/backjoon/9372/9372.txt" />
+        <option value="$PROJECT_DIR$/backjoon/9372/9372.py" />
+        <option value="$PROJECT_DIR$/backjoon/11725/11725.txt" />
+        <option value="$PROJECT_DIR$/backjoon/11725/11725_new.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1917" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="2242" />
+    <option name="y" value="-9" />
+    <option name="width" value="1614" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -96,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,13 +181,36 @@
               <item name="AlgoStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
               <item name="backjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="14244" type="462c0819:PsiDirectoryNode" />
+              <item name="2178" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgoStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="backjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="2468" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgoStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="backjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="2667" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgoStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="backjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="9372" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgoStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="backjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="11725" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,8 +234,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.14244">
-    <configuration name="12851" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.11725">
+    <configuration name="11725" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +243,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/12851" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/11725" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/12851/12851.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/11725/11725.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11725_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgoStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/11725" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/11725/11725_new.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1697" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2178" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,11 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/1697" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/2178" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/1697/1697.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/2178/2178.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2468" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9372" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,32 +327,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/2468" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/9372" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/2468/2468.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2667" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgoStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/2667" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/2667/2667.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/9372/9372.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,19 +341,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2667" />
-      <item itemvalue="Python.2468" />
-      <item itemvalue="Python.1697" />
-      <item itemvalue="Python.12851" />
       <item itemvalue="Python.14244" />
+      <item itemvalue="Python.9372" />
+      <item itemvalue="Python.2178" />
+      <item itemvalue="Python.11725_new" />
+      <item itemvalue="Python.11725" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11725" />
+        <item itemvalue="Python.11725_new" />
+        <item itemvalue="Python.9372" />
+        <item itemvalue="Python.2178" />
         <item itemvalue="Python.14244" />
-        <item itemvalue="Python.1697" />
-        <item itemvalue="Python.12851" />
-        <item itemvalue="Python.2468" />
-        <item itemvalue="Python.2667" />
       </list>
     </recent_temporary>
   </component>
@@ -282,13 +374,13 @@
     <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4971537" visible="true" weight="0.20092532" />
-      <window_info id="Favorites" order="1" sideWeight="0.5028463" side_tool="true" weight="0.1665565" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" sideWeight="0.5028463" side_tool="true" weight="0.1665565" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4971537" weight="0.29430893" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49834764" visible="true" weight="0.265625" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29545453" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49834764" weight="0.25426137" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43607953" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -300,25 +392,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4971537" visible="true" weight="0.1665565" />
-      <window_info id="Favorites" order="1" sideWeight="0.5028463" side_tool="true" weight="0.1665565" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25142047" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.32954547" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -366,23 +439,73 @@
           <line>24</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/9372/9372.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/9372/9372.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/11725/11725_new.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/11725/11725_new.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/11725/11725.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/11725/11725.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="result" language="Python" />
+        <watch expression="tree" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>result</expression-string>
+        <expression-string>parent</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ans</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tree</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cnt</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
         <expression-string>visited</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -398,11 +521,6 @@
       </expression>
       <expression>
         <expression-string>visiited</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>cnt</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -434,13 +552,9 @@
     <entry file="file://C:/Program Files/Python/Python39/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/1260/1260.txt" />
     <entry file="file://$PROJECT_DIR$/backjoon/1260/1260.py" />
-    <entry file="file://$PROJECT_DIR$/backjoon/2178/2178.txt" />
-    <entry file="file://$PROJECT_DIR$/backjoon/2178/2178.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/1012/1012.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/2667/2667.txt" />
-    <entry file="file://$PROJECT_DIR$/backjoon/2468/2468.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/2468/2468.txt" />
-    <entry file="file://$PROJECT_DIR$/backjoon/2667/2667.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/1697/1697.txt" />
     <entry file="file://$PROJECT_DIR$/backjoon/12851/12851.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/12851/12851.txt" />
@@ -451,17 +565,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.txt">
+    <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="209">
+          <caret line="11" column="24" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.py">
+    <entry file="file://$PROJECT_DIR$/backjoon/2667/2667.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/2468/2468.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/14244/14244.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="32" lean-forward="true" selection-end-line="21" />
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/2178/2178.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/2178/2178.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/9372/9372.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/9372/9372.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/11725/11725.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/11725/11725_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/11725/11725.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
         </state>
       </provider>
     </entry>
