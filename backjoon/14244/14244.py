@@ -3,7 +3,6 @@ sys.stdin = open('14244.txt')
 
 n, m = map(int, input().split())
 
-
 tree = [[] for _ in range(n+1)]
 number_list = list(range(n))
 # 맨 앞 0이 무조건 리프1를 차지하니까

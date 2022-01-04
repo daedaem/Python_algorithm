@@ -2,8 +2,6 @@ import sys
 sys.stdin = open('1991.txt')
 
 
-
-
 def preorder(tree, node):
     if node != '.':
         result1.append(node)
@@ -43,12 +41,13 @@ def postorder(tree, node):
 
 N = int(input())
 tree = {}
-result1= []
+result1=[]
 result2=[]
 result3=[]
 for _ in range(N):
     node, left, right = input().split()
     tree[node] = (left, right)
+print(tree)
     # make_tree(node, left, right)
 preorder(tree, 'A')
 for i in result1:

@@ -34,6 +34,7 @@ for _ in range(tc):
         # tree[b] = a
     # print(tree)
     visited[0] = True
+    # print(visited)
     dfs(1, N)
     print(cnt)
 
