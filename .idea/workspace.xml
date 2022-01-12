@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eecc2933-e5f0-4826-92ce-39282c6530c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/1699/1699.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/1699/1699.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/1699/1699.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/1699/1699.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/2579/2579.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/2579/2579.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/1913/1913.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/1913/1913.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/1913/1913.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/1913/1913.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,15 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backjoon/1699/1699.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backjoon/1913/1913.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -35,17 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backjoon/1913/1913.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backjoon/1699/1699.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="380">
+              <caret line="20" column="9" lean-forward="true" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -106,8 +91,8 @@
         <option value="$PROJECT_DIR$/backjoon/1904/1904.py" />
         <option value="$PROJECT_DIR$/backjoon/2579/2579.py" />
         <option value="$PROJECT_DIR$/backjoon/1699/1699.txt" />
-        <option value="$PROJECT_DIR$/backjoon/1699/1699.py" />
         <option value="$PROJECT_DIR$/backjoon/1913/1913.txt" />
+        <option value="$PROJECT_DIR$/backjoon/1699/1699.py" />
         <option value="$PROJECT_DIR$/backjoon/1913/1913.py" />
       </list>
     </option>
@@ -516,6 +501,16 @@
           <line>34</line>
           <option name="timeStamp" value="127" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/1913/1913.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/1913/1913.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -797,9 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backjoon/1699/1699.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/backjoon/1699/1699.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -807,17 +799,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/1699/1699.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/backjoon/1913/1913.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backjoon/1913/1913.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="380">
+          <caret line="20" column="9" lean-forward="true" selection-end-line="50" />
         </state>
       </provider>
     </entry>
