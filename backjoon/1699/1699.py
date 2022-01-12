@@ -20,18 +20,17 @@ for i in range(2, N+1):
         pass
     else:
         min_value = N +1
-        for j in range(1, i):
-            if i == j:
-                pass
+        # 제곱수만 돌려본다. 제곱수는 그 값이 1이니까
+        x = list(range(1, int(i ** (1 / 2))+1))
+        for j in x:
+            temp = ans[i-(j**2)] + ans[j**2]
+            if min_value >= temp:
+                min_value = temp
+                if min_value == 2:
+                    ans[i] = 2
+                    break
             else:
-                temp = ans[i-j] + ans[j]
-                if min_value >= temp:
-                    min_value = temp
-                    if min_value ==2:
-                        ans[i] = 2
-                        break
-                else:
-                    pass
+                pass
         ans[i] = min_value
 print(ans[N])
 

@@ -1,19 +1,41 @@
 import sys
-from collections import deque
+# from collections import deque
 sys.stdin= open('2579.txt')
 
 N = int(input())
+stairs = [0]
+# print(visited)
+max_value = 0
 
-que = deque()
-values = []
-val = []
+for _ in range(N):
+    x = int(input())
+    stairs.append(x)
 
-def bfs(x):
-    while que:
-        value = que.popleft()
-        value.append(x)
+if dp[i-1] < dp[i-2]:
+    dp[i] = dp[i-1] + stairs[i]
+else:
+    dp[i] = dp[i-2] + stairs[i]
 
-        que.append()
+
+
+
+# record = []
+# print(x)
+print(stairs)
+# for i in range(1,3):
+    # bfs(i, 6, val)
+
+
+# que = deque()
+# values = []
+# val = []
+#
+# def bfs(x):
+#     while que:
+#         value = que.popleft()
+#         value.append(x)
+#
+#         que.append()
 
 # def bfs(start, end, val):
 #     if start >= end:
@@ -36,18 +58,7 @@ def bfs(x):
 #             #         result.pop()
 
 
-stairs = []
-result = []
-visited = [0] * (N+1)
-# print(visited)
-for _ in range(N):
-    x = int(input())
-    stairs.append(x)
-record = []
-# print(x)
-# print(stairs)
-for i in range(1,3):
-    bfs(i, 6, val)
+
 # que = []
 
 #
