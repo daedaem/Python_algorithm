@@ -1,6 +1,6 @@
 import sys
 sys.stdin = open('1913.txt')
-
+# sys.stdout = open('output.txt','w')
 N = int(input())
 find_number = int(input())
 Y = [-1, 0, 1, 0]
@@ -45,6 +45,9 @@ for i in range(N):
     for j in range(N):
         print(table[i][j], end=" ")
     print()
-for i in ans_2:
-    print(i, end= " ")
+if find_number ==1:
+    print(int(N/2+1), int(N/2+1))
+else:
+    for i in ans_2:
+        print(i, end= " ")
 

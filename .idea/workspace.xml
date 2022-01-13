@@ -17,20 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backjoon/1913/1913.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backjoon/12933/12933.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+            <state relative-caret-position="308">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backjoon/1913/1913.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backjoon/12933/12933.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="9" lean-forward="true" selection-end-line="50" />
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -91,15 +91,17 @@
         <option value="$PROJECT_DIR$/backjoon/1904/1904.py" />
         <option value="$PROJECT_DIR$/backjoon/2579/2579.py" />
         <option value="$PROJECT_DIR$/backjoon/1699/1699.txt" />
-        <option value="$PROJECT_DIR$/backjoon/1913/1913.txt" />
         <option value="$PROJECT_DIR$/backjoon/1699/1699.py" />
+        <option value="$PROJECT_DIR$/backjoon/1913/1913.txt" />
         <option value="$PROJECT_DIR$/backjoon/1913/1913.py" />
+        <option value="$PROJECT_DIR$/backjoon/12933/12933.txt" />
+        <option value="$PROJECT_DIR$/backjoon/12933/12933.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2530" />
-    <option name="y" value="-28" />
+    <option name="x" value="2741" />
+    <option name="y" value="-9" />
     <option name="width" value="980" />
     <option name="height" value="1050" />
   </component>
@@ -111,7 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,10 +125,17 @@
               <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
               <item name="backjoon" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgoStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="backjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="12933" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,8 +160,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1913">
-    <configuration name="11727" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12933">
+    <configuration name="12933" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/11727" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/12933" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/11727/11727.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/12933/12933.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,19 +267,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.11727" />
       <item itemvalue="Python.1904" />
       <item itemvalue="Python.1699" />
       <item itemvalue="Python.2579" />
       <item itemvalue="Python.1913" />
+      <item itemvalue="Python.12933" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12933" />
         <item itemvalue="Python.1913" />
         <item itemvalue="Python.1699" />
         <item itemvalue="Python.1904" />
         <item itemvalue="Python.2579" />
-        <item itemvalue="Python.11727" />
       </list>
     </recent_temporary>
   </component>
@@ -294,9 +302,9 @@
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5028463" side_tool="true" weight="0.1665565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4971537" visible="true" weight="0.15069398" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4971537" weight="0.15069398" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32954547" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4976867" visible="true" weight="0.24005681" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37926137" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -569,8 +577,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backjoon/2667/2667.txt" />
-    <entry file="file://$PROJECT_DIR$/backjoon/2468/2468.txt" />
     <entry file="file://$PROJECT_DIR$/backjoon/1697/1697.txt" />
     <entry file="file://$PROJECT_DIR$/backjoon/12851/12851.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/12851/12851.txt" />
@@ -809,14 +815,28 @@
     <entry file="file://$PROJECT_DIR$/backjoon/1913/1913.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backjoon/1913/1913.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="9" lean-forward="true" selection-end-line="50" />
+        <state relative-caret-position="333">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/12933/12933.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/12933/12933.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
