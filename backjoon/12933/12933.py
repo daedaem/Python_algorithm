@@ -13,6 +13,7 @@ maxcount = 0
 stack = []
 temp=''
 result1 = 0
+# print(soundlist)
 if soundlist.count('q') == soundlist.count('u') == soundlist.count('a') == soundlist.count('c') == soundlist.count('k'):
     while sounds:
         if sounds and sounds[0]!='q':

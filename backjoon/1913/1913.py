@@ -40,7 +40,7 @@ for j in range(1, int(N/2)+1):
                 ans_2.append(mid_x+1)
             table[mid_y][mid_x] += cnt
     #         1,0 =2
-
+# print(table)
 for i in range(N):
     for j in range(N):
         print(table[i][j], end=" ")
