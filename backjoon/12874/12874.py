@@ -7,8 +7,10 @@ temp=0
 for i in range(m):
     temp += salary[i]
 # print(temp)
+# 1일 할 수 있으면 맥스
 if m ==1:
     print(max(salary))
+#
 elif n==m:
     print(sum(salary))
 else:
@@ -16,6 +18,7 @@ else:
         if max_value <= temp:
             max_value = temp
         temp = temp - salary[i] + salary[i + m]
+
     print(max_value)
 
     # for j in range(m):
