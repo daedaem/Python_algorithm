@@ -35,6 +35,7 @@ for x in try_list:
             if x > ground[i][j]:
                 temp_time += (x - ground[i][j])
                 temp_b -= (x - ground[i][j])
+
             # 골라야할 땅 높이보다 크다면 블록 제거하는 시간 2초 더하고, 블록 인벤토리에 추가
             elif x < ground[i][j]:
                 temp_time += (ground[i][j] - x) *2
@@ -52,4 +53,3 @@ for x in try_list:
 
 result.sort()
 print(*result[0])
-#
