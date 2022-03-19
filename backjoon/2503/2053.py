@@ -30,12 +30,7 @@ for i in range(1, 10):
             else:
                 temp.append(z)
                 candidate = str(temp[0]) + str(temp[1]) + str(temp[2])
-                # print(candidate)
-                # result.append(candidate)
-                # candidate= list(candidate)
                 anscount = 0
-                # strike = 0
-                # ball = 0
                 for v in range(N):
                     strike = 0
                     ball = 0

@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="eecc2933-e5f0-4826-92ce-39282c6530c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/15469/15469.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/15649/15649.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/15469/15469.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/15649/15649.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/2503/2053.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/2503/2053.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/A - [2503] [숫자 야구]/해성.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/A - [2503] [숫자 야구]/해성.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/C - [16935] [배열 돌리기 3]/해성.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/C - [16935] [배열 돌리기 3]/해성.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,15 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../JJMG" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,12 +132,6 @@
               <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
               <item name="backjoon" type="462c0819:PsiDirectoryNode" />
               <item name="14719" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="backjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="15469" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgoStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -213,7 +216,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -232,13 +234,13 @@
       <recent name="C:\Users\SSAFY\Desktop\github\JJMG\03.01~03.08 백트래킹" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\github\AlgoStudy\backjoon\14889" />
       <recent name="C:\Users\SSAFY\Desktop\github\AlgoStudy\backjoon" />
+      <recent name="C:\Users\SSAFY\Desktop\github\AlgoStudy\backjoon\14889" />
       <recent name="C:\Users\user\Desktop\210811 해성 중요폴더\취업\개발자 취업\AlgoStudy\backjoon" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2053">
-    <configuration name="14889" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11654">
+    <configuration name="10951" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/14889" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/10951" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/14889/14889.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/10951/10951.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15649" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11654" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +269,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/15649" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/11654" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/15649/15649.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/11654/11654.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15649_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11720" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,11 +290,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/15649" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/11720" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/15649/15649_new.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/11720/11720.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +303,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15652" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1546" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgoStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,11 +311,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/15652" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/1546" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/15652/15652.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/1546/1546.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,19 +346,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.15649" />
-      <item itemvalue="Python.15649_new" />
-      <item itemvalue="Python.15652" />
-      <item itemvalue="Python.14889" />
       <item itemvalue="Python.2053" />
+      <item itemvalue="Python.10951" />
+      <item itemvalue="Python.11720" />
+      <item itemvalue="Python.1546" />
+      <item itemvalue="Python.11654" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11654" />
+        <item itemvalue="Python.1546" />
+        <item itemvalue="Python.11720" />
+        <item itemvalue="Python.10951" />
         <item itemvalue="Python.2053" />
-        <item itemvalue="Python.15649_new" />
-        <item itemvalue="Python.15652" />
-        <item itemvalue="Python.14889" />
-        <item itemvalue="Python.15649" />
       </list>
     </recent_temporary>
   </component>
@@ -785,16 +787,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/backjoon/2503/2053.py</url>
-          <line>56</line>
+          <line>51</line>
           <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/A - [2503] [숫자 야구]/해성.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/A - [2503] [숫자 야구]/해성.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="208" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="result" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -887,13 +894,7 @@
     <entry file="file://$PROJECT_DIR$/../JJMG/03.01 ~ 03.08 백트래킹/C - [] []/해성.py" />
     <entry file="file://$PROJECT_DIR$/알고리즘 템플릿/Backtracking/Backtracking_PhoneNumber.py" />
     <entry file="file://$PROJECT_DIR$/알고리즘 템플릿/Backtracking/Backtracking_PhoneNumber_new.py" />
-    <entry file="file://$PROJECT_DIR$/backjoon/15469/15469.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/15469/15469.txt" />
     <entry file="file://$PROJECT_DIR$/backjoon/9663/9663.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1019,13 +1020,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backjoon/15469/15469.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/backjoon/15469/15469.py" />
     <entry file="file://$PROJECT_DIR$/backjoon/21608/21608.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
