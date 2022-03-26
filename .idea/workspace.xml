@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eecc2933-e5f0-4826-92ce-39282c6530c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/2503/2053.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/2503/2053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/11654/11654.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/11654/11654.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/A - [2503] [숫자 야구]/해성.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/A - [2503] [숫자 야구]/해성.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/C - [16935] [배열 돌리기 3]/해성.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JJMG/03.08 ~ 03.15 구현/C - [16935] [배열 돌리기 3]/해성.py" afterDir="false" />
     </list>
@@ -114,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,6 +215,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
