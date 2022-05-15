@@ -22,6 +22,3 @@ for i in range(N): # 0 1 2 3 4
         if x[i][0] < x[i+c][0] and x[i][1] < x[i+c][1]:
             record[i] += 1
 print(*record)
-
-
-
